@@ -1,0 +1,29 @@
+.content {
+  max-width: 500px;
+  margin: 150px auto;
+}
+
+.content-container {
+  display: flex;
+  gap: 8px;
+}
+
+.content-user-img {
+  width: 32px;
+  height: 32px;
+}
+
+.content-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-user-name,
+.content-body {
+  font-size: 14px;
+}
+
+.content-img {
+  height: 225px;
+  width: 225px;
+}
